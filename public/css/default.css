@@ -1,0 +1,13 @@
+body{
+	background-color: #a9e4e8;
+}
+h1{
+	text-align: center;
+}
+.login{
+	/* margin 0 auto to make form in center*/
+	margin: 0 auto; 
+	width: 400px;
+	height: 500px;
+
+}
